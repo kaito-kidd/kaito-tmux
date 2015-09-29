@@ -1,2 +1,2 @@
 # kaito-tmux
-`tmux 配置
+`tmux`配置
